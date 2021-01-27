@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\seowoo.github.io\\js"
+		},
+		{
+			"path": "..\\..\\seowoo.github.io\\2021practice"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "2021practice"
+	}
+}
